@@ -27,12 +27,12 @@ Follow these steps to run the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/imranfaiz786/My-Portfolio.git
+   git clone https://github.com/imranfaiz786/Dcop-Portal.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd My-Portfolio
+   cd Dcop-Portal
    ```
 
 3. Install the required dependencies:
