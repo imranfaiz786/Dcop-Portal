@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/* CSS for fadeIn animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+* {
+  font-family: "Noto Sans", serif;
+}
+
+.language-toggle {
+  background-color: #004614; /* Customize background color */
+  color: white; /* Customize text color */
+}
+
+.custom-btn {
+  background-color: #004614 !important;
+  border: none !important;
+  color: white !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.custom-btn:hover {
+  background-color: transparent !important;
+  color: #004614 !important;
+  border: 1px solid #004614 !important;
+}
+
+.bg-custom-green {
+  background-color: #004614;
+}
+
+.text-red {
+  color: rgb(110, 0, 0);
+}
